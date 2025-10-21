@@ -155,7 +155,7 @@ python udp_relay_for_wsl.py
 | -------------------------- | ------------------------------------------------------- |
 | 🔴 Firewall blocking ports | Open ports 3350 – 12347 or temporarily disable firewall |
 | ⏱️ Connection timeout      | Verify IPs and network link                             |
-| ⚙️ Motor not responding    | Ensure `TEST_MODE = False`, check CANdle wiring         |
+| ⚙️ Motor not responding    | Ensure `TEST_MODE = False`, change control_period       |
 | 📉 Training fails          | Verify feature sets and EMG signal quality              |
 
 ---
