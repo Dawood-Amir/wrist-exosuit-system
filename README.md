@@ -30,7 +30,7 @@ This system provides **adaptive motor assistance for wrist rehabilitation**, int
 
 **Key Features**
 
-* 🧠 Real-time EMG processing (≈85 ms latency)
+* 🧠 Real-time EMG processing 
 * 🤖 ML-driven motion classification (Ridge / MLP)
 * 🛡️ Multi-layer safety system (limits, watchdogs, validation)
 * 📱 Android interface for therapists and patients
