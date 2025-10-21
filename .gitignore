@@ -1,0 +1,37 @@
+# Android
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+app/build/
+captures/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# OS
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

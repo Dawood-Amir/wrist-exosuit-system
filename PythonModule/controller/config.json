@@ -1,0 +1,37 @@
+{
+   
+    "angle_buckets": 6,
+    "window_size" : 20,
+    "step_size" : 10,
+    "sampling_rate" : 200,
+    
+    "extendingMotorNo" : 0,
+    "flexingMotorNo" : 1,
+ 
+    "max_torque" : 1.0,
+
+    "max_kp_iso": 5,
+    "max_kd_iso" : 0
+    ,
+    "kd_min" : 0.015,
+    "kp_min" : 0.3,
+    "alpha": 0.025,
+
+    "extension_strength_max" : 2.0,
+    "flexion_strength_max" : 2.0,
+    "base_torque" : 0.1,
+    "extension_strength_min" : 0.3,
+    "flexion_strength_min": 0.3,
+
+    "control_period": 0.03,
+
+    "max_velocity": 5.0,
+    "upper_position_limit": 3.0,
+    "lower_position_limit": -3.0,
+
+    "myo_reg_val_port" : 3340,
+    "motor_settings_port": 3350,
+    "confirmation_port": 3351,
+    "disconnect_port": 3358,
+    "start_signal_port": 3352
+}

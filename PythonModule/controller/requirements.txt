@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+pyCandleMAB==1.5.0
+
