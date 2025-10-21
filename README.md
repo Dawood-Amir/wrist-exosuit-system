@@ -7,10 +7,9 @@
 A **real-time rehabilitation system** that uses surface EMG (sEMG) signals to deliver adaptive wrist assistance through machine learning and motor control.
 
 
-<p align="center">
+<p align="left">
   <img src="Report/demo.gif" width="300"/>
 </p>
----
 
 ## 📋 Table of Contents
 
