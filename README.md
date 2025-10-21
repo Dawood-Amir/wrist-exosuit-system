@@ -144,8 +144,8 @@ python udp_relay_for_wsl.py
 
 ## 📚 Documentation
 
-* **Technical Report:** [`emg-wrist-rehabilitation-report.pdf`](docs/emg-wrist-rehabilitation-report.pdf)
-* **Setup Guide:** [`Setup Guide.pdf`](docs/Setup%20Guide.pdf)
+* **Technical Report:** [`emg-wrist-rehabilitation-report.pdf`](Report/emg-wrist-rehabilitation-report.pdf)
+* **Setup Guide:** [`Setup Guide.pdf`](Report/Setup%20Guide.pdf)
 
 ---
 
