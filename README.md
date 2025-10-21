@@ -9,6 +9,7 @@ A **real-time rehabilitation system** that uses surface EMG (sEMG) signals to de
 
 <p align="left">
   <img src="Report/demo.gif" width="300"/>
+  <img src="https://github.com/Dawood-Amir/wrist-exosuit-system/blob/main/Report/demo.gif?raw=true" width="600"/>
 </p>
 
 ## 📋 Table of Contents
