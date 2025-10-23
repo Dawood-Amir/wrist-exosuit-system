@@ -27,6 +27,7 @@ A **real-time rehabilitation system** that uses surface EMG (sEMG) signals to de
 ---
 
 ## 🎯 Overview
+<a name="overview"></a>
 
 This system provides **adaptive motor assistance for wrist rehabilitation**, interpreting forearm EMG signals to control a **cable-driven exosuit** in real time.
 
@@ -41,6 +42,7 @@ This system provides **adaptive motor assistance for wrist rehabilitation**, int
 ---
 
 ## 🏗️ Architecture
+<a name="architecture"></a>
 
 ```
 WristExo/
@@ -53,6 +55,7 @@ WristExo/
 ---
 
 ## 🚀 Quick Start
+<a name="quick-start"></a>
 
 ### Prerequisites
 
@@ -73,6 +76,7 @@ pip install -r trainerudp/requirements.txt
 ---
 
 ## 🧩 Components
+<a name="components"></a>
 
 ### 📱 Android Application
 
@@ -94,6 +98,7 @@ pip install -r trainerudp/requirements.txt
 ---
 
 ## 🛠️ Setup Guide
+<a name="setup-guide"></a>
 
 ### 1️⃣ Training Server
 
@@ -129,6 +134,7 @@ python udp_relay_for_wsl.py
 ---
 
 ## ▶️ Usage
+<a name="usage"></a>
 
 ### 🧾 Training Phase
 
@@ -145,6 +151,7 @@ python udp_relay_for_wsl.py
 ---
 
 ## 📚 Documentation
+<a name="documentation"></a>
 
 * **Technical Report:** [`emg-wrist-rehabilitation-report.pdf`](Report/emg-wrist-rehabilitation-report.pdf)
 * **Setup Guide:** [`Setup Guide.pdf`](Report/Setup%20Guide.pdf)
@@ -152,6 +159,7 @@ python udp_relay_for_wsl.py
 ---
 
 ## 🧩 Troubleshooting
+<a name="troubleshooting"></a>
 
 | Issue                      | Solution                                                |
 | -------------------------- | ------------------------------------------------------- |
@@ -170,6 +178,7 @@ For contributions or questions, contact **[dawood.a.mughal@fau.de](mailto:dawood
 ---
 
 ## 📄 Citation
+<a name="citation"></a>
 
 > **Dawood Aamar Mughal**, *EMG-Controlled Adaptive Assistance for Wrist Rehabilitation: A Real-Time Control Platform*, FAU (2025).
 > Instructors: Prof. Dr. Claudio Castellini, Prof. Dr. rer. nat. Sabine Thürauf.
