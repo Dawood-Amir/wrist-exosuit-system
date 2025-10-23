@@ -180,8 +180,8 @@ For contributions or questions, contact **[dawood.a.mughal@fau.de](mailto:dawood
 ## 📄 Citation
 <a name="citation"></a>
 
-> **Dawood Aamar Mughal**, *EMG-Controlled Adaptive Assistance for Wrist Rehabilitation: A Real-Time Control Platform*, FAU (2025).
+> **Dawood Aamar Mughal**, *An EMG-Controlled Adaptive Assistance Platform for Real-Time Wrist Rehabilitation*, FAU (2025).
 > Instructors: Prof. Dr. Claudio Castellini, Prof. Dr. rer. nat. Sabine Thürauf.
-> [Report PDF](docs/emg-wrist-rehabilitation-report.pdf)
+> [Report PDF](Report/emg-wrist-rehabilitation-report.pdf)
 
 
