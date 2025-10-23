@@ -44,10 +44,10 @@ This system provides **adaptive motor assistance for wrist rehabilitation**, int
 
 ```
 WristExo/
-├── android/          # Kotlin app (UI + EMG processing)
-├── pythonmodule/     # Exosuit controller (Raspberry Pi)
-├── trainerudp/       # ML training server (Python)
-└── docs/             # Technical report + setup guide
+├── Android/          # Kotlin app (UI + EMG processing)
+├── PythonModule/     # Exosuit controller (Raspberry Pi)
+├── TrainerUdpServer/       # ML training server (Python)
+└── Report/             # Technical report + setup guide
 ```
 
 ---
